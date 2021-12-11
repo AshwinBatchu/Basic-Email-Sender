@@ -1,1 +1,7 @@
-
+,sender,receiver,message
+1,send1@mail.com,got1@mail.com,message1 
+2,send2@mail.com,got2@mail.com,message2
+3,send3@mail.com,got3@mail.com,message3
+4,send4@mail.com,got4@mail.com,message4
+5,send5@mail.com,got5@mail.com,message5
+6,send6@mail.com,got6@mail.com,message6
